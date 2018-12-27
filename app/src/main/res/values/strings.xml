@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TransactionViewer</string>
+    <string name="welcome">Transaction Viewer</string>
+    <string name="btc_value_label">BTC : </string>
+    <string name="balance_label">Balance : </string>
+    <string name="time_label">Time :</string>
+    <string name="status_label">Status :</string>
+    <string name="money_sent">Sent</string>
+    <string name="money_received">Received</string>
+</resources>
